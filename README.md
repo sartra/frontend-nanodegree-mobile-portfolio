@@ -21,7 +21,8 @@ Optimizations in to index.html:
 - Switched to use async Web Font loader (instead of google font api link)
 _ Minified my HTML
 
-Page renders with a PageSpeed Score of 81.
+Page renders with a Mobile PageSpeed Score of 86
+& a Desktop PageSpeed Score of 94
 
 #### Part 2: Optimize Frames per Second in pizza.html
 
