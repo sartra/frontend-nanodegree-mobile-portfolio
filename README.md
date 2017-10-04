@@ -10,7 +10,7 @@ Challenge: optimize this online portfolio for speed! In particular, optimize the
 
 ### Optimizations
 
-####Part 1: Optimize PageSpeed Insights score for index.html
+#### Part 1: Optimize PageSpeed Insights score for index.html
 
 Optimizations in to index.html:
 
@@ -23,7 +23,7 @@ _ Minified my HTML
 
 Page renders with a PageSpeed Score of 81.
 
-####Part 2: Optimize Frames per Second in pizza.html
+#### Part 2: Optimize Frames per Second in pizza.html
 
 To optimize the framerate of pizza.html, these changes were made to main.js:
 
