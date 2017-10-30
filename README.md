@@ -20,6 +20,11 @@ Optimizations in to index.html:
 - Moved all JavaScript to the bottom of body
 - Switched to use async Web Font loader (instead of google font api link)
 _ Minified my HTML
+- added transform translateZ(0) to trigger GPU acceleration in all browsers, with vendor prefixes
+(http://blog.teamtreehouse.com/increase-your-sites-performance-with-hardware-accelerated-css)
+- added backface-visibility with vendor prefixes
+
+
 
 Page renders with a Mobile PageSpeed Score of 86
 & a Desktop PageSpeed Score of 94
